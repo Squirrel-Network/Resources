@@ -1,3 +1,5 @@
 # How to start?
 
-## python3 main.py
+### in config.py put your BOT TOKEN
+
+### in console: python3 main.py
