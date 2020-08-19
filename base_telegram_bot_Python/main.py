@@ -4,7 +4,7 @@
 __copyright__ = "Copyright 2020, SquirrelNetwork"
 __credits__ = ["Hersel Giannella"]
 __license__ = "GPL 3.0"
-__version__ = "8.0.0"
+__version__ = "1.0.0"
 __repository__ = "https://github.com/Squirrel-Network/nebula"
 __status__ = "Development"
 
