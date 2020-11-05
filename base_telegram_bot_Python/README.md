@@ -1,7 +1,7 @@
 # How to start?
 
 # Requirements
-pip3 install python-telegram-bot
+pip3 install python-telegram-bot --upgrade
 
 ### in config.py put your BOT TOKEN
 
